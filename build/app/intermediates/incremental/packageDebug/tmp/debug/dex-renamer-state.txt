@@ -1,0 +1,4 @@
+#Mon Oct 16 14:24:55 EAT 2023
+base.0=/media/jotech/720E055E2B7EA56A/Desktop/dsktp/currency_converter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
